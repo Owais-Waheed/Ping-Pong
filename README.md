@@ -17,6 +17,10 @@ This Python project showcases a simple implementation of the classic Pong game u
    - After a win, press 'R' to initiate a fresh round.
 
 ---
+## Gameplay Snippet 
+
+
+<img src="https://github.com/Owais-Waheed/Ping-Pong/assets/98638652/1707eb7d-3dfa-4b93-a95d-f2f17ec12d23" alt="Awesome Features" width="600" height="400">
 
 ## Getting Started
 
